@@ -1,0 +1,52 @@
+<resources>
+    <string translatable="false" name="app_name">Pitteri Impianti S.R.L</string>
+
+    <string name="username">Username</string>
+    <string name="password">Insert password</string>
+    <string name="login">Login</string>
+    <string name="notregister">Not registered yet?</string>
+    <string name="titlesignup">Insert new user</string>
+    <string name="name">Name:</string>
+    <string name="cogname">Surname:</string>
+    <string name="cellphone">Telephone Number:</string>
+    <string name="nation">Nationality:</string>
+    <string name="city">City:</string>
+    <string name="login_error">Error Logging in</string>
+    <string name="wrong_login">Wrong Login</string>
+    <string name="loading">Loading…</string>
+    <string name="cliente">Client:</string>
+    <string name="select_client">Select Client</string>
+    <string name="dipendente_x">Worker: %s</string>
+    <string name="CF_x">CF: %s</string>
+    <string name="username_x">Username: %s</string>
+    <string name="no_client_selected">No Client selected</string>
+    <string name="no_client_found">No client found</string>
+    <string name="vat_x">VAT number: %s</string>
+    <string name="address_x">Address: %s</string>
+    <string name="error_searching_clients">Error searching clients</string>
+    <string name="add_client">Add Client</string>
+    <string name="address">Address:</string>
+    <string name="vatNumber">VAT Number:</string>
+    <string name="client_added">Client added</string>
+    <string name="error_adding_client">Error adding client</string>
+    <string name="add_job">Add Job</string>
+    <string name="date">Date:</string>
+    <string name="date_x">Date: %s</string>
+    <string name="numberOfHours">Number of hours:</string>
+    <string name="price">Price:</string>
+    <string name="description">Description:</string>
+    <string name="error_adding_job">Error adding job</string>
+    <string name="codice_fiscale">Codice Fiscale:</string>
+    <string name="error_loading_jobs">Error loading jobs</string>
+    <string name="description_x">Description: %s</string>
+    <string name="price_x">Price: €%d</string>
+    <string name="numberOfHours_x">Number of hours: %d</string>
+    <string name="selectDate">Select date</string>
+    <string name="noDateSelected">No date selected</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="insert_special_password">Insert Special Password</string>
+    <string name="registration_completed_successufully">Registration Completed Successfully</string>
+    <string name="username_already_taken">Username you chose is already taken</string>
+    <string name="wrong_special_password">The special password you provided is wrong</string>
+</resources>
